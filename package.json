@@ -1,0 +1,19 @@
+{
+  "name": "express-bot",
+  "version": "0.0.1",
+  "description": "express with johny-five",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "express",
+    "johny-five"
+  ],
+  "author": "xeodou@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.7",
+    "johnny-five": "^0.8.37"
+  }
+}
